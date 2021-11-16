@@ -1,0 +1,28 @@
+first name : 
+last name : aya
+cin:
+user name : 
+password : 
+birth date : 
+--------------------------------------------------
+first name : fdghj
+last name : aya
+cin:bgn,;:
+user name : fghj
+password : fdghj
+birth date : dfghjk
+--------------------------------------------------
+first name : 
+last name : 
+cin:
+user name : 
+password : 
+birth date : 
+--------------------------------------------------
+first name : bn,;
+last name : vbn,
+cin:b,n;
+user name : jhnj,;
+password : bn,
+birth date : nb,
+--------------------------------------------------
